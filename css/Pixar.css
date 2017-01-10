@@ -1,3 +1,4 @@
+
 .myMOUSE {
     cursor:pointer;
 }
@@ -239,4 +240,7 @@ footer img{
 }
 .display{
   display: none;
+}
+.fb-comments{
+margin:auto;
 }
