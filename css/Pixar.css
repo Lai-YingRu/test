@@ -1,6 +1,4 @@
-.fb_iframe_widget{
-margin:auto!important;
-}
+
 .fb-like{
 
   z-index: 6;
@@ -235,6 +233,9 @@ li{
   width: 8.5vw;
   margin: 10vw 0 0 38.5vw;
   z-index: -1;
+}
+.fb_iframe_widget{
+margin:auto!important;
 }
 footer{
   width: 100vw;
