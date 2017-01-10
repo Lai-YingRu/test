@@ -241,6 +241,6 @@ footer img{
 .display{
   display: none;
 }
-.fb-comments{
-margin:auto;
+.fb_iframe_widget{
+margin:auto!important;
 }
